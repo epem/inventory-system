@@ -1,0 +1,6 @@
+.env
+node_modules
+.dynamodb
+.serverless
+test_java.js
+test.js
